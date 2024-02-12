@@ -12,6 +12,7 @@ import com.example.dodo.databinding.ActivityMainBinding
 import com.example.dodo.model.Pizza
 import com.example.dodo.model.PizzaDataSource
 
+
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var adapter: PizzaAdapter
